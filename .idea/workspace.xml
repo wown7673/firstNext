@@ -4,98 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acc0b1c8-98a5-48ff-94cd-077e6e767f38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d5b18cd78fc254fb28d7887c3e0727d9607d748" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/187a24d34c60306e7d13cde83cc76fa7cad3e311" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/26f54f54f349cec6e375a19ba036c5b2e0114872" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/28dba86a05e049c2e3438fbe89f6aaf4a0350d0f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/621057d3e37ec5db35479d62b2e0f9e6d5abb38b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/751b3fc4dd6d754d5f5df4bc743c6171da89e7d5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/81574a05c2f44cab61871c7afe31555a9b4c6cf0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/8215caa89b304866d4e6a510e86e81e79e80c556" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/84b53348d99057521a1008c16a920a1135fba38d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a76170f4e06be1a4949cd4e9a8d25401ba83800" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9dd96fdcd7f930f48491c5ffde762e3f2ef8414e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa5102b21fba727b67136a0f4b2b32fa292ba223" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af0400f04045b5713f2a473268ead93398cf20e1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bde540506b7030ea1ae0da580b7e34b1fc760789" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cf67c8ebacf13e29cfb304d6f7cb453c2037d1f2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/daee03191d11578eec33c79dcfe27d4794324ad3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fc1bda3f20e931e81ce5b8ed3af6a318cc1c581a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/d/0d5b18cd78fc254fb28d7887c3e0727d9607d748" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/8/187a24d34c60306e7d13cde83cc76fa7cad3e311" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/6/26f54f54f349cec6e375a19ba036c5b2e0114872" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/8/28dba86a05e049c2e3438fbe89f6aaf4a0350d0f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/2/621057d3e37ec5db35479d62b2e0f9e6d5abb38b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/5/751b3fc4dd6d754d5f5df4bc743c6171da89e7d5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/1/81574a05c2f44cab61871c7afe31555a9b4c6cf0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/2/8215caa89b304866d4e6a510e86e81e79e80c556" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/4/84b53348d99057521a1008c16a920a1135fba38d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/a/9a76170f4e06be1a4949cd4e9a8d25401ba83800" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/d/9dd96fdcd7f930f48491c5ffde762e3f2ef8414e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/a/aa5102b21fba727b67136a0f4b2b32fa292ba223" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/f/af0400f04045b5713f2a473268ead93398cf20e1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/d/bde540506b7030ea1ae0da580b7e34b1fc760789" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/f/cf67c8ebacf13e29cfb304d6f7cb453c2037d1f2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/a/daee03191d11578eec33c79dcfe27d4794324ad3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/c/fc1bda3f20e931e81ce5b8ed3af6a318cc1c581a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/customers/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/invoices/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/lib/data.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/lib/definitions.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/lib/placeholder-data.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/lib/utils.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/seed/route.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/acme-logo.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/button.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/customers/table.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/cards.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/latest-invoices.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/nav-links.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/revenue-chart.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/sidenav.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/fonts.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/global.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/breadcrumbs.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/buttons.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/create-form.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/edit-form.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/pagination.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/status.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/table.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/login-form.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/search.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/skeletons.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/next.config.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/pnpm-lock.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/postcss.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/public/customers/amy-burns.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/public/customers/balazs-orban.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/public/customers/delba-de-oliveira.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/public/customers/evil-rabbit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/public/customers/lee-robinson.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/public/customers/michael-novotny.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/public/hero-desktop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/public/hero-mobile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/public/opengraph-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/tailwind.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secondNext.iml" afterDir="false" />
+    <list default="true" id="acc0b1c8-98a5-48ff-94cd-077e6e767f38" name="Changes" comment="최초커밋">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/seed/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/seed/route.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,20 +30,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/dev/dev_next/secondNext/nextjs-dashboard/app/dashboard/invoices&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\dev\\dev_next\\secondNext\\nextjs-dashboard\\node_modules\\typescript\\lib&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/dev/dev_next/secondNext/nextjs-dashboard/app/dashboard/invoices",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\dev\\dev_next\\secondNext\\nextjs-dashboard\\node_modules\\typescript\\lib"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\dev\dev_next\secondNext\nextjs-dashboard\app\dashboard\invoices" />
@@ -146,8 +60,25 @@
       <option name="presentableId" value="Default" />
       <updated>1720505661514</updated>
       <workItem from="1720505662538" duration="11045000" />
-      <workItem from="1720661257313" duration="1609000" />
+      <workItem from="1720661257313" duration="5687000" />
     </task>
+    <task id="LOCAL-00001" summary="최초커밋">
+      <option name="closed" value="true" />
+      <created>1720664171561</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720664171561</updated>
+    </task>
+    <task id="LOCAL-00002" summary="최초커밋">
+      <option name="closed" value="true" />
+      <created>1720664188000</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720664188000</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,10 +89,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="최초커밋" />
+    <option name="LAST_COMMIT_MESSAGE" value="최초커밋" />
   </component>
 </project>
