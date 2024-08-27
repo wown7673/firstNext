@@ -8,18 +8,19 @@ import {
   Revenue,
 } from './definitions';
 import { formatCurrency } from './utils';
+import {setTimeout} from "next/dist/compiled/@edge-runtime/primitives";
 
 export async function fetchRevenue() {
   try {
     // Artificially delay a response for demo purposes.
     // Don't do this in production :)
 
-    // console.log('Fetching revenue data...');
-    // await new Promise((resolve) => setTimeout(resolve, 3000));
+    console.log('Fetching revenue data...');
+    await new Promise((resolve) => setTimeout(resolve, 3000));
 
     const data = await sql<Revenue>`SELECT * FROM revenue`;
 
-    // console.log('Data fetch completed after 3 seconds.');
+    console.log('Data fetch completed after 3 seconds.');
 
     return data.rows;
   } catch (error) {
@@ -30,6 +31,10 @@ export async function fetchRevenue() {
 
 export async function fetchLatestInvoices() {
   try {
+
+    // 느린데이터 가져오기 연습을 위해 추가
+    await new Promise((resolve : ()=>void) => setTimeout(resolve, 3000));
+    
     const data = await sql<LatestInvoiceRaw>`
       SELECT invoices.amount, customers.name, customers.image_url, customers.email, invoices.id
       FROM invoices
@@ -50,6 +55,7 @@ export async function fetchLatestInvoices() {
 
 export async function fetchCardData() {
   try {
+    await new Promise((resolve) => setTimeout(resolve, 1000));
     // You can probably combine these into a single SQL query
     // However, we are intentionally splitting them to demonstrate
     // how to initialize multiple queries in parallel with JS.
@@ -89,6 +95,11 @@ export async function fetchFilteredInvoices(
   currentPage: number,
 ) {
   const offset = (currentPage - 1) * ITEMS_PER_PAGE;
+
+
+
+  // 느린데이터 가져오기 연습을 위해 추가
+  await new Promise((resolve) => setTimeout(resolve, 1000));
 
   try {
     const invoices = await sql<InvoicesTable>`
@@ -157,10 +168,9 @@ export async function fetchInvoiceById(id: string) {
       // Convert amount from cents to dollars
       amount: invoice.amount / 100,
     }));
-
     return invoice[0];
   } catch (error) {
-    console.error('Database Error:', error);
+    console.error('Database Error1:', error);
     throw new Error('Failed to fetch invoice.');
   }
 }

@@ -4,11 +4,62 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acc0b1c8-98a5-48ff-94cd-077e6e767f38" name="Changes" comment="최초커밋">
+    <list default="true" id="acc0b1c8-98a5-48ff-94cd-077e6e767f38" name="Changes" comment="seed파일 주석처리함">
+      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/invoices/[id]/edit/not-found.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/invoices/[id]/edit/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/invoices/create/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/invoices/error.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/lib/actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/login/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/auth.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/auth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/middleware.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d5b18cd78fc254fb28d7887c3e0727d9607d748" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d5b18cd78fc254fb28d7887c3e0727d9607d748" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/153d748aef2c9c5863038212836db0ec5d624486" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1e87e6dc49f5e21c6810f48eb9cba7ec0df5cf92" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1e87e6dc49f5e21c6810f48eb9cba7ec0df5cf92" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c4d8677b0a00413c9b07060921eb5989217cb9e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c4d8677b0a00413c9b07060921eb5989217cb9e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/454d10f93d6e782dfd5681d3b5c200b14ffa8fb5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/454d10f93d6e782dfd5681d3b5c200b14ffa8fb5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/546944a932dd0eda2e777840cdcccdfb39fdf09b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/546944a932dd0eda2e777840cdcccdfb39fdf09b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/74a772eef6e6e24b18650f90a8941b7f17128b87" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/751b3fc4dd6d754d5f5df4bc743c6171da89e7d5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/751b3fc4dd6d754d5f5df4bc743c6171da89e7d5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7e706abdd458ce312578a4d12cf15b6346bc6105" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7e706abdd458ce312578a4d12cf15b6346bc6105" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82893d3ef65d5522a136b301a4207c6cd60aca64" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82893d3ef65d5522a136b301a4207c6cd60aca64" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9dd96fdcd7f930f48491c5ffde762e3f2ef8414e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9dd96fdcd7f930f48491c5ffde762e3f2ef8414e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9ee82177e3bd4de6026466c282145382eec33a31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a4f036deec8666ba6c1d37288ca8818a7b7a3a14" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a4f036deec8666ba6c1d37288ca8818a7b7a3a14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd7b318ee2229ad1824e39c59a3015316a34fad6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd7b318ee2229ad1824e39c59a3015316a34fad6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d42bfeffc011ee397d0951c913ef17265da28a6a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d42bfeffc011ee397d0951c913ef17265da28a6a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/daee03191d11578eec33c79dcfe27d4794324ad3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/daf769cd7e3feff91b75e8be6c73f554fcc6e9e3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/daf769cd7e3feff91b75e8be6c73f554fcc6e9e3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2c539b488dfc0e0c87e24c4193804ba38fedbf4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2c539b488dfc0e0c87e24c4193804ba38fedbf4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed86d88dc2842b4122d195ab0be314a5312c5256" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed86d88dc2842b4122d195ab0be314a5312c5256" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fe23268a75d0d9f4eb4890c7d5a68ddc2d7e9ed5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fe23268a75d0d9f4eb4890c7d5a68ddc2d7e9ed5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/5/153d748aef2c9c5863038212836db0ec5d624486" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/4/74a772eef6e6e24b18650f90a8941b7f17128b87" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/e/9ee82177e3bd4de6026466c282145382eec33a31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/a/daee03191d11578eec33c79dcfe27d4794324ad3" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/customers/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/invoices/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/lib/data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/lib/data.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/seed/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/seed/route.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/cards.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/cards.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/latest-invoices.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/latest-invoices.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/revenue-chart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/revenue-chart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/buttons.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/buttons.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/create-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/create-form.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/edit-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/edit-form.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/pagination.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/pagination.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/table.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/table.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/search.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/search.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/tailwind.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +69,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "wown7673"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/wown7673/firstNext.git",
+    "accountId": "4d849500-e0ff-4573-8382-7f1ddbb4f285"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -36,12 +99,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/dev/dev_next/secondNext/nextjs-dashboard/app/dashboard/invoices",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/dev/dev_next/board-Next",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.general",
     "ts.external.directory.path": "C:\\dev\\dev_next\\secondNext\\nextjs-dashboard\\node_modules\\typescript\\lib"
   }
 }]]></component>
@@ -50,6 +115,20 @@
       <recent name="C:\dev\dev_next\secondNext\nextjs-dashboard\app\dashboard\invoices" />
       <recent name="C:\dev\dev_next\secondNext\nextjs-dashboard\app\dashboard\customers" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\dev_next\secondNext\nextjs-dashboard\app\dashboard\(overview)" />
+      <recent name="C:\dev\dev_next\secondNext\nextjs-dashboard\app" />
+      <recent name="C:\dev\dev_next\secondNext\nextjs-dashboard\app\dashboard\ " />
+      <recent name="C:\dev\dev_next\secondNext\nextjs-dashboard\app\dashboard" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -60,7 +139,11 @@
       <option name="presentableId" value="Default" />
       <updated>1720505661514</updated>
       <workItem from="1720505662538" duration="11045000" />
-      <workItem from="1720661257313" duration="5687000" />
+      <workItem from="1720661257313" duration="13291000" />
+      <workItem from="1720694158038" duration="615000" />
+      <workItem from="1720734276179" duration="77852000" />
+      <workItem from="1721267630075" duration="7647000" />
+      <workItem from="1722488636120" duration="4914000" />
     </task>
     <task id="LOCAL-00001" summary="최초커밋">
       <option name="closed" value="true" />
@@ -78,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720664188000</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="seed파일 주석처리함">
+      <option name="closed" value="true" />
+      <created>1720668329980</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720668329980</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,7 +186,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -109,6 +200,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="최초커밋" />
-    <option name="LAST_COMMIT_MESSAGE" value="최초커밋" />
+    <MESSAGE value="seed파일 주석처리함" />
+    <option name="LAST_COMMIT_MESSAGE" value="seed파일 주석처리함" />
   </component>
 </project>
